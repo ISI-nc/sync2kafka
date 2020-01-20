@@ -1,4 +1,4 @@
-module github.com/mcluseau/sync2kafka
+module github.com/isi-nc/sync2kafka
 
 require (
 	github.com/Shopify/sarama v1.25.0
@@ -11,9 +11,9 @@ require (
 	github.com/hashicorp/go-uuid v1.0.2 // indirect
 	github.com/json-iterator/go v1.1.7 // indirect
 	github.com/mailru/easyjson v0.7.0 // indirect
-	github.com/mcluseau/go-diff v1.0.8
-	github.com/mcluseau/go-swagger-ui v0.0.0-20191019002626-fd9128c24a34
-	github.com/mcluseau/kafka-sync v1.0.10-0.20200113221917-ff58513e3726
+	github.com/isi-nc/go-diff v1.0.8
+	github.com/isi-nc/go-swagger-ui v0.0.0-20191019002626-fd9128c24a34
+	github.com/isi-nc/kafka-sync v1.0.10-0.20200113221917-ff58513e3726
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/oklog/ulid v1.3.1

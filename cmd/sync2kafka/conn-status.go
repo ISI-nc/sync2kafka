@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	kafkasync "github.com/mcluseau/kafka-sync"
+	kafkasync "github.com/isi-nc/kafka-sync"
 )
 
 var (

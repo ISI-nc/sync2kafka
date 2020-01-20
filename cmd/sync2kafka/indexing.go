@@ -5,8 +5,8 @@ import (
 	"log"
 	"sync"
 
-	"github.com/mcluseau/go-diff/boltindex"
-	kafkasync "github.com/mcluseau/kafka-sync"
+	"github.com/isi-nc/go-diff/boltindex"
+	kafkasync "github.com/isi-nc/kafka-sync"
 )
 
 var (

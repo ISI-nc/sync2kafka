@@ -11,9 +11,9 @@ import (
 	"runtime"
 	"sync"
 
-	kafkasync "github.com/mcluseau/kafka-sync"
+	kafkasync "github.com/isi-nc/kafka-sync"
 
-	"github.com/mcluseau/sync2kafka/client"
+	"github.com/isi-nc/sync2kafka/client"
 )
 
 const kvBufferSize = 1000

@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	restful "github.com/emicklei/go-restful"
-	swaggerui "github.com/mcluseau/go-swagger-ui"
-	"github.com/mcluseau/sync2kafka/apiutils"
+	swaggerui "github.com/isi-nc/go-swagger-ui"
+	"github.com/isi-nc/sync2kafka/apiutils"
 	)
 
 const bearerHdr = "Bearer "

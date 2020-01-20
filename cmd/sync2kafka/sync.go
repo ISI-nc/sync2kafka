@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	diff "github.com/mcluseau/go-diff"
-	"github.com/mcluseau/go-diff/boltindex"
-	kafkasync "github.com/mcluseau/kafka-sync"
+	diff "github.com/isi-nc/go-diff"
+	"github.com/isi-nc/go-diff/boltindex"
+	kafkasync "github.com/isi-nc/kafka-sync"
 )
 
 type syncSpec struct {
