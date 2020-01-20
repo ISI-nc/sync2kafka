@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	restful "github.com/emicklei/go-restful"
-	swaggerui "github.com/isi-nc/go-swagger-ui"
+	swaggerui "github.com/isi-nc/go-swagger-ui/v3/swaggerui"
 	"github.com/isi-nc/sync2kafka/apiutils"
 	)
 
